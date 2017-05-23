@@ -1,6 +1,8 @@
-title: JKAN
-greeting: Welcome to JKAN
+title: Code for Orlando's Data Portal
+greeting: Welcome to Code for Orlando's Data Portal
 description: A lightweight, backend-free open data portal, powered by Jekyll.
+
+Don't forget to check out the City of Orlando's data portal at data.cityoforlando.net.
 baseurl: /jkan
 logo: /img/jkan.png
 
