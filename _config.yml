@@ -1,5 +1,5 @@
-title: JKAN
-greeting: Welcome to JKAN
+title: Code for Orlando Data Portal
+greeting: Welcome to Code for Orlando's Data Portal.
 description: A lightweight, backend-free open data portal, powered by Jekyll.
 baseurl: /jkan
 logo: /img/jkan.png
@@ -67,8 +67,8 @@ hypothesis:
 
 # Twitter
 twittercard:
-  enabled: false
-  username: "@"
+  enabled: true
+  username: "@codefororlando"
 
 # Open Graph
 opengraph:
