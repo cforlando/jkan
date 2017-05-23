@@ -2,7 +2,9 @@
 schema: default
 title: City Bicycle Data
 organization: City of Orlando
-notes: ''
+notes: >-
+  This dataset contains shape files for the bike lanes and bike parking areas
+  throughout the city.
 resources:
   - name: Bike Lanes
     url: >-
